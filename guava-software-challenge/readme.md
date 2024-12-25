@@ -196,5 +196,5 @@ The solution encounters issues when the staircase or the treasure is located nea
 
 ### Help and References
 
-Red Blob Games A* Pathfinding Introduction: This resource provided a helpful refresh on the A* algorithm fundamentals.
-LLMs were used as code review assistants (debugging, commenting) and helped with the writing of this README.
+1. Red Blob Games A* Pathfinding Introduction: This resource provided a helpful refresh on the A* algorithm fundamentals.
+2. LLMs were used as code review assistants (debugging, commenting) and helped with the writing of this README.
